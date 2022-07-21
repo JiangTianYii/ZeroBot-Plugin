@@ -113,6 +113,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"    // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"        // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
+	_ "github.com/hmc-wzy/ZeroBot-Plugin/plugin/gmsr"         // GMSR角色查询
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 
